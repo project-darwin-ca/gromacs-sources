@@ -14,3 +14,9 @@
 # Parabricks / Deep Origin Source
 
 - [Deep Origin and NVIDIA Help Researchers Save Time and Money by Bringing GPU-Accelerated Genomics Tools to Nextflow](https://www.deeporigin.com/blog/deep-origin-and-nvidia-help-researchers-save-time-and-money-by-bringing-gpu-accelerated-genomics-tools-to-nextflow)
+
+
+# GROMACS / OneAPI
+
+- [GROMACS and OneAPI]
+(https://www.intel.com/content/www/us/en/newsroom/news/gromacs-oneapi-aid-open-source-drug-discovery.html#gs.a4rudu)
